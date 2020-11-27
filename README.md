@@ -36,6 +36,7 @@
 ## 2020
 ### How Useful is Self-Supervised Pretraining for Visual Tasks CVPR 2020 [[paper]](https://arxiv.org/abs/2003.14323)
 ### Improved Baselines with Momentum Contrastive Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2003.04297)
+### A Simple Framework for Contrastive Learning of Visual Representations ICML 2020 [[paper]](https://arxiv.org/abs/2002.05709)
 ### Models Genesis arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07882) [[code]]()
 ### Momentum Contrast for Unsupervised Visual Representation Learning CVPR 2020 [[paper]](https://arxiv.org/abs/1911.05722)
 ### Rethinking Pre-training and Self-training arXiv 2020 [[paper]](https://arxiv.org/abs/2006.06882)
