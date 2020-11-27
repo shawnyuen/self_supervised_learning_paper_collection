@@ -41,4 +41,5 @@
 ### Rethinking Pre-training and Self-training arXiv 2020 [[paper]](https://arxiv.org/abs/2006.06882)
 ### Self-Supervised Feature Extraction for 3D Axon Segmentation CVPRW 2020 [[paper]](https://arxiv.org/abs/2004.09629)
 ### Self-supervised Visual Feature Learning with Deep Neural Networks A Survey IEEE TPAMI 2020 [[paper]](https://ieeexplore.ieee.org/document/9086055)
+### Unsupervised Learning of Visual Features by Contrasting Cluster Assignments NIPS 2020 [[arXiv paper]](https://arxiv.org/abs/2006.09882)
 ### What Makes for Good Views for Contrastive Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10243)
