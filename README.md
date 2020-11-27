@@ -36,6 +36,7 @@
 ## 2020
 ### A Simple Framework for Contrastive Learning of Visual Representations ICML 2020 [[paper]](https://arxiv.org/abs/2002.05709)
 ### Bootstrap Your Own Latent A New Approach to Self-supervised Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2006.07733)
+### (SimSiam) Exploring Simple Siamese Representation Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2011.10566)
 ### How Useful is Self-Supervised Pretraining for Visual Tasks CVPR 2020 [[paper]](https://arxiv.org/abs/2003.14323)
 ### Improved Baselines with Momentum Contrastive Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2003.04297)
 ### Models Genesis arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07882) [[code]]()
