@@ -1,5 +1,9 @@
 # SelfSupervisedLearningPaperCollection
 
+## Survey
+### Self-supervised Visual Feature Learning with Deep Neural Networks A Survey IEEE TPAMI 2020 [[paper]](https://ieeexplore.ieee.org/document/9086055)
+### Self-supervised Learning Generative or Contrastive arXiv 2020 [[paper]](https://arxiv.org/abs/2006.08218)
+
 ## 2015
 ### Unsupervised Visual Representation Learning by Context Prediction ICCV 2015 [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Doersch_Unsupervised_Visual_Representation_ICCV_2015_paper.html)
 
@@ -28,6 +32,8 @@
 ### Local Aggregation for Unsupervised Learning of Visual Embeddings ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhuang_Local_Aggregation_for_Unsupervised_Learning_of_Visual_Embeddings_ICCV_2019_paper.html)
 ### Models Genesis Generic Autodidactic Models for 3D Medical Image Analysis MICCAI 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_42)
 ### Multimodal Self-Supervised Learning for Medical Image Analysis arXiv 2019 [[paper]](https://arxiv.org/abs/1912.05396)
+### Revisiting Self-Supervised Visual Representation Learning CVPR 2019 [[arXiv paper]](https://arxiv.org/abs/1901.09005) [[code]](https://github.com/google/revisiting-self-supervised)
+### Scaling and Benchmarking Self-Supervised Visual Representation Learning ICCV 2019 [[arXiv paper]](https://arxiv.org/abs/1905.01235) [[code]](https://github.com/facebookresearch/fair_self_supervision_benchmark)
 ### Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik’s Cube MICCAI 2019 [[paper]](https://arxiv.org/abs/1910.02241)
 ### Self-supervised Learning for Cardiac MR Image Segmentation by Anatomical Position Prediction MICCAI 2019 [[paper]](https://arxiv.org/abs/1907.02757)
 ### Self-supervised Learning for Medical Image Analysis Using Image Context Restoration MedIA 2019 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304699)
@@ -36,13 +42,16 @@
 ## 2020
 ### A Simple Framework for Contrastive Learning of Visual Representations ICML 2020 [[paper]](https://arxiv.org/abs/2002.05709)
 ### Bootstrap Your Own Latent A New Approach to Self-supervised Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2006.07733) [[code]](https://github.com/deepmind/deepmind-research/tree/master/byol)
+"BYOL"
 ### (SimSiam) Exploring Simple Siamese Representation Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2011.10566)
 ### How Useful is Self-Supervised Pretraining for Visual Tasks CVPR 2020 [[paper]](https://arxiv.org/abs/2003.14323)
+### How Well Do Self-Supervised Models Transfer arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13377)
+"We compare their performance to a supervised baseline and conclude that on most datasets, the best self-supervised models outperform supervision", "There is no single self-supervised method which dominates overall, but notably DeepCluster-v2 comes out on top in recognition and SimCLR-v2 in detection and dense prediction", ""
 ### Improved Baselines with Momentum Contrastive Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2003.04297)
 ### Models Genesis arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07882) [[code]]()
 ### (MoCo) Momentum Contrast for Unsupervised Visual Representation Learning CVPR 2020 [[arXiv paper]](https://arxiv.org/abs/1911.05722) [[code]](https://github.com/facebookresearch/moco)
 ### Rethinking Pre-training and Self-training arXiv 2020 [[paper]](https://arxiv.org/abs/2006.06882)
 ### Self-Supervised Feature Extraction for 3D Axon Segmentation CVPRW 2020 [[paper]](https://arxiv.org/abs/2004.09629)
-### Self-supervised Visual Feature Learning with Deep Neural Networks A Survey IEEE TPAMI 2020 [[paper]](https://ieeexplore.ieee.org/document/9086055)
+### Self-Supervised Learning of Pretext-Invariant Representations CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Misra_Self-Supervised_Learning_of_Pretext-Invariant_Representations_CVPR_2020_paper.html) [[arXiv paper]](https://arxiv.org/abs/1912.01991)
 ### Unsupervised Learning of Visual Features by Contrasting Cluster Assignments NIPS 2020 [[arXiv paper]](https://arxiv.org/abs/2006.09882)
 ### What Makes for Good Views for Contrastive Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10243)
