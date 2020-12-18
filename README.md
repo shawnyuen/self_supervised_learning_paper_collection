@@ -40,9 +40,8 @@
 ### Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty arXiv 2019 [[paper]](https://arxiv.org/abs/1906.12340)
 
 ## 2020
-### A Simple Framework for Contrastive Learning of Visual Representations ICML 2020 [[paper]](https://arxiv.org/abs/2002.05709)
-### Bootstrap Your Own Latent A New Approach to Self-supervised Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2006.07733) [[code]](https://github.com/deepmind/deepmind-research/tree/master/byol)
-"BYOL"
+### (SimCLR) A Simple Framework for Contrastive Learning of Visual Representations ICML 2020 [[paper]](https://arxiv.org/abs/2002.05709)
+### (BYOL) Bootstrap Your Own Latent A New Approach to Self-supervised Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2006.07733) [[code]](https://github.com/deepmind/deepmind-research/tree/master/byol)
 ### (SimSiam) Exploring Simple Siamese Representation Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2011.10566)
 ### How Useful is Self-Supervised Pretraining for Visual Tasks CVPR 2020 [[paper]](https://arxiv.org/abs/2003.14323)
 ### How Well Do Self-Supervised Models Transfer arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13377)
@@ -55,5 +54,5 @@
 ### Self-EMD Self-supervised Object Detection without ImageNet arXiv 2020 [[paper]]()
 ### Self-Supervised Feature Extraction for 3D Axon Segmentation CVPRW 2020 [[paper]](https://arxiv.org/abs/2004.09629)
 ### Self-Supervised Learning of Pretext-Invariant Representations CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Misra_Self-Supervised_Learning_of_Pretext-Invariant_Representations_CVPR_2020_paper.html) [[arXiv paper]](https://arxiv.org/abs/1912.01991)
-### Unsupervised Learning of Visual Features by Contrasting Cluster Assignments NIPS 2020 [[arXiv paper]](https://arxiv.org/abs/2006.09882)
+### (SwAV) Unsupervised Learning of Visual Features by Contrasting Cluster Assignments NIPS 2020 [[arXiv paper]](https://arxiv.org/abs/2006.09882)
 ### What Makes for Good Views for Contrastive Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10243)
