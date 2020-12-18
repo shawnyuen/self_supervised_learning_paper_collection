@@ -50,6 +50,7 @@
 ### Improved Baselines with Momentum Contrastive Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2003.04297)
 ### Models Genesis arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07882) [[code]]()
 ### (MoCo) Momentum Contrast for Unsupervised Visual Representation Learning CVPR 2020 [[arXiv paper]](https://arxiv.org/abs/1911.05722) [[code]](https://github.com/facebookresearch/moco)
+### Propagate Yourself Exploring Pixel-level Consistency for Unsupervised Visual Representation Learning arXiv 2020 [[paper]]()
 ### Rethinking Pre-training and Self-training arXiv 2020 [[paper]](https://arxiv.org/abs/2006.06882)
 ### Self-EMD Self-supervised Object Detection without ImageNet arXiv 2020 [[paper]]()
 ### Self-Supervised Feature Extraction for 3D Axon Segmentation CVPRW 2020 [[paper]](https://arxiv.org/abs/2004.09629)
