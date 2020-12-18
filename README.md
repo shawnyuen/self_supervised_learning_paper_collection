@@ -51,6 +51,7 @@
 ### Models Genesis arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07882) [[code]]()
 ### (MoCo) Momentum Contrast for Unsupervised Visual Representation Learning CVPR 2020 [[arXiv paper]](https://arxiv.org/abs/1911.05722) [[code]](https://github.com/facebookresearch/moco)
 ### Rethinking Pre-training and Self-training arXiv 2020 [[paper]](https://arxiv.org/abs/2006.06882)
+### Self-EMD Self-supervised Object Detection without ImageNet arXiv 2020 [[paper]]()
 ### Self-Supervised Feature Extraction for 3D Axon Segmentation CVPRW 2020 [[paper]](https://arxiv.org/abs/2004.09629)
 ### Self-Supervised Learning of Pretext-Invariant Representations CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Misra_Self-Supervised_Learning_of_Pretext-Invariant_Representations_CVPR_2020_paper.html) [[arXiv paper]](https://arxiv.org/abs/1912.01991)
 ### Unsupervised Learning of Visual Features by Contrasting Cluster Assignments NIPS 2020 [[arXiv paper]](https://arxiv.org/abs/2006.09882)
