@@ -47,6 +47,7 @@
 ### How Well Do Self-Supervised Models Transfer arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13377)
 "We compare their performance to a supervised baseline and conclude that on most datasets, the best self-supervised models outperform supervision", "There is no single self-supervised method which dominates overall, but notably DeepCluster-v2 comes out on top in recognition and SimCLR-v2 in detection and dense prediction", ""
 ### Improved Baselines with Momentum Contrastive Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2003.04297)
+### Information-preserving Contrastive Learning for Self-supervised Representations arXiv 2020 [[paper]]()
 ### Models Genesis arXiv 2020 [[paper]](https://arxiv.org/abs/2004.07882) [[code]]()
 ### (MoCo) Momentum Contrast for Unsupervised Visual Representation Learning CVPR 2020 [[arXiv paper]](https://arxiv.org/abs/1911.05722) [[code]](https://github.com/facebookresearch/moco)
 ### Propagate Yourself Exploring Pixel-level Consistency for Unsupervised Visual Representation Learning arXiv 2020 [[paper]]()
