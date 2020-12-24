@@ -40,6 +40,7 @@
 ### Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty arXiv 2019 [[paper]](https://arxiv.org/abs/1906.12340)
 
 ## 2020
+### 3D Self-Supervised Methods for Medical Imaging NIPS 2020 [[paper]](https://arxiv.org/abs/2006.03829) [[code]](https://github.com/HealthML/self-supervised-3d-tasks)
 ### (SimCLR) A Simple Framework for Contrastive Learning of Visual Representations ICML 2020 [[paper]](https://arxiv.org/abs/2002.05709)
 ### (BYOL) Bootstrap Your Own Latent A New Approach to Self-supervised Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2006.07733) [[code]](https://github.com/deepmind/deepmind-research/tree/master/byol)
 ### (SimSiam) Exploring Simple Siamese Representation Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2011.10566)
