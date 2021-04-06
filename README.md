@@ -59,3 +59,6 @@
 ### Self-supervised Learning with Fully Convolutional Networks arXiv 2020 [[paper]]()
 ### (SwAV) Unsupervised Learning of Visual Features by Contrasting Cluster Assignments NIPS 2020 [[arXiv paper]](https://arxiv.org/abs/2006.09882)
 ### What Makes for Good Views for Contrastive Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2005.10243)
+
+## 2021
+### An Empirical Study of Training Self-Supervised Visual Transformers arXiv 2021 [[paper]](https://arxiv.org/abs/2104.02057)
