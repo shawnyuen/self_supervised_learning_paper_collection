@@ -54,6 +54,7 @@
 ### Propagate Yourself Exploring Pixel-level Consistency for Unsupervised Visual Representation Learning arXiv 2020 [[paper]]()
 ### Rethinking Pre-training and Self-training arXiv 2020 [[paper]](https://arxiv.org/abs/2006.06882)
 ### Self-EMD Self-supervised Object Detection without ImageNet arXiv 2020 [[paper]]()
+### Supervised Contrastive Learning arXiv 2020 [[paper]](https://arxiv.org/abs/2004.11362)
 ### Self-supervised Feature Extraction for 3D Axon Segmentation CVPRW 2020 [[paper]](https://arxiv.org/abs/2004.09629)
 ### Self-supervised Learning of Pretext-Invariant Representations CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Misra_Self-Supervised_Learning_of_Pretext-Invariant_Representations_CVPR_2020_paper.html) [[arXiv paper]](https://arxiv.org/abs/1912.01991)
 ### Self-supervised Learning with Fully Convolutional Networks arXiv 2020 [[paper]]()
