@@ -1,4 +1,4 @@
-# SelfSupervisedLearningPaperCollection
+# self_supervised_learning_paper_collection
 
 ## Survey
 ### Self-supervised Visual Feature Learning with Deep Neural Networks A Survey IEEE TPAMI 2020 [[paper]](https://ieeexplore.ieee.org/document/9086055)
