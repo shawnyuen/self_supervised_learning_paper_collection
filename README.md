@@ -4,6 +4,10 @@
 ### Self-supervised Visual Feature Learning with Deep Neural Networks A Survey IEEE TPAMI 2020 [[paper]](https://ieeexplore.ieee.org/document/9086055)
 ### Self-supervised Learning Generative or Contrastive arXiv 2020 [[paper]](https://arxiv.org/abs/2006.08218)
 
+## 2023
+### DINOv2 - Learning Robust Visual Features without Supervision arXiv 2023
+### Hard Patches Mining for Masked Image Modeling CVPR 2023 [[paper]](https://arxiv.org/abs/2304.05919)
+
 ## 2015
 ### Unsupervised Visual Representation Learning by Context Prediction ICCV 2015 [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Doersch_Unsupervised_Visual_Representation_ICCV_2015_paper.html)
 
